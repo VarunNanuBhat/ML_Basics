@@ -12,3 +12,5 @@ print(arr_2d)
 # Check the dimensions of array
 print(arr_2d.ndim)
 
+
+
