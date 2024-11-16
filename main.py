@@ -23,5 +23,14 @@ zeros_arr = np.zeros((4, 5))
 print(zeros_arr)
 
 
+# Generating random nos in numpy
+# Import random module from numpy
+from numpy import random
 
+# Generate a 1-D array of size 10 containing  values between 1 to 10
+rand_array = random.randint(10, size = (10))
+print(rand_array)
 
+# Random data distribution
+random_data_dist = random.choice([3, 5, 7, 9], p=[0.1, 0.3, 0.6, 0.0], size=(100))
+print(random_data_dist)

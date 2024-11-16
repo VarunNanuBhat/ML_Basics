@@ -1,0 +1,42 @@
+[
+    {
+        "Name": "Varun",
+        "USN": 103,
+        "Sem": 6,
+        "Sub 1 marks": 74,
+        "Sub 2 marks": 80,
+        "Sub 3 marks": 68
+    },
+    {
+        "Name": "Hitesh",
+        "USN": 36,
+        "Sem": 6,
+        "Sub 1 marks": 80,
+        "Sub 2 marks": 85,
+        "Sub 3 marks": 89
+    },
+    {
+        "Name": "Shashank",
+        "USN": 90,
+        "Sem": 6,
+        "Sub 1 marks": 55,
+        "Sub 2 marks": 64,
+        "Sub 3 marks": 74
+    },
+    {
+        "Name": "Gowrish",
+        "USN": 44,
+        "Sem": 6,
+        "Sub 1 marks": 45,
+        "Sub 2 marks": 70,
+        "Sub 3 marks": 85
+    },
+    {
+        "Name": "Pradeep",
+        "USN": 60,
+        "Sem": 6,
+        "Sub 1 marks": 78,
+        "Sub 2 marks": 62,
+        "Sub 3 marks": 63
+    }
+]
