@@ -13,4 +13,7 @@ print(dataframe_json)
 dataframe = pd.read_csv('data.csv')
 # Print first 3 rows
 print(dataframe.head(3))
+# To print first 5 rows
+print(dataframe.head())
+
 
